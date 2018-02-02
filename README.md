@@ -22,7 +22,6 @@
 
 [舜耕时创](https://github.com/ShunGengNet)
 
-[@Barry](https://github.com/haobowd)  [@MeSai](https://github.com/MeSai)
+[@Barry](https://github.com/haobowd)  [@MeSai](https://github.com/lw668)
 
-test
 

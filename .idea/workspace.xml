@@ -2,7 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4e44e8c-b930-4e42-97e4-ded672a6ceb4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/b_images/201582625384652.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/b_images/201582637403694.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/b_images/201582644691750.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/b_images/201582662375618.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/b_images/201582686457650.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/b_images/201582786590859.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/b_images/201591429181801.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arrowws.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/big8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/boot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/camera-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/magnify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page1_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page2_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page2_img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page2_img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page2_img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page4_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page4_img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page4_img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page4_img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page4_img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page4_img6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page4_img7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/page4_img8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/preloader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/quotes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slide1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slide2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/th1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/th2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/th3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/th4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/th5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/th6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/th7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/th8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/th9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/totop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/we.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/yl1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/yl1_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/yl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/yl2_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/yl3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/yl3_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/yanliu~1.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Edu-poverty-alleviation-platform.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/haobowd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/superfish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/touchTouch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/PIE.htc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/PIE.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/TMForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-migrate-1.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.equalheights.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.hoverdir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.iosslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.mobilemenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.ui.totop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modernizr.custom.97074.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/sForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/superfish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/touchTouch.jquery.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -152,12 +251,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517582780247</updated>
-      <workItem from="1517582781471" duration="182000" />
+      <workItem from="1517582781471" duration="225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182000" />
+    <option name="totallyTimeSpent" value="225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
