@@ -18,6 +18,8 @@
 
 [炎刘模式教育扶贫平台测试](http://yanliu.3wsg.com)
 
+[炎刘模式论坛](http://ylbbs.3wsg.com)
+
 ## 4.开发团队
 
 [舜耕时创](https://github.com/ShunGengNet)
