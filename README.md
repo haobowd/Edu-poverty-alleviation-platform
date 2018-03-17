@@ -1,4 +1,3 @@
-# Edu-poverty-alleviation-platform
 
 ![教育扶贫](https://upload-images.jianshu.io/upload_images/3095233-dddbec9d1395a7c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -58,9 +57,8 @@
 
 
 > Github：[Edu-poverty-alleviation-platform-2.0](https://github.com/haobowd/Edu-poverty-alleviation-platform-2.0)
-> Coding:  [Model-of-Yan-Liu](https://coding.net/u/HaoBoWd/p/Model-of-Yan-Liu/git)
+> Coding:  [Model-of-Yan-Liu](https://git.coding.net/HaoBoWd/Model-of-Yan-Liu/git)
 
 WeChat：![ShunGengNen](https://upload-images.jianshu.io/upload_images/3095233-4163434c59ef5d7c.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 
 
